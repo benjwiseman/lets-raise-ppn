@@ -1,0 +1,4 @@
+event_id,pot_id,date,event_type,eggs_counted,root_fresh_weight_g,gall_rating,extraction_method,recorded_by,notes
+1,SIM-RR-PAP-001,2026-10-25,partial_harvest,18500,12.4,,NaOCl shake,BW,Roots sampled; plant returned to pot (simulated)
+2,SIM-MJ-BEET-001,2026-10-01,plant_died,,,,,BW,Plant collapsed before harvest (simulated)
+3,SIM-MI-TOM-001,2026-10-20,gall_check,,,6,,BW,Heavy galling (simulated)

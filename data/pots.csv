@@ -1,0 +1,6 @@
+pot_id,nematode_species,population,host_species,host_cultivar,greenhouse,seeded_date,transplant_date,inoculation_date,inoculum_stage,inoculum_count,inoculum_source_pot,notes
+SIM-RR-PAP-001,Rotylenchulus reniformis,,Carica papaya,,GH-hot,2026-07-20,2026-08-10,2026-08-20,vermiform,400,,Example row (simulated)
+SIM-RR-SP-001,Rotylenchulus reniformis,,Ipomoea batatas,Beauregard,GH-hot,,2026-09-01,2026-09-11,vermiform,300,,Example row (simulated)
+SIM-MI-TOM-001,Meloidogyne incognita,,Solanum lycopersicum,Pixie,GH-cool,2026-08-01,2026-08-20,2026-08-30,vermiform,500,,Example row (simulated)
+SIM-MJ-BEET-001,Meloidogyne javanica,,Beta vulgaris,,GH-cool,2026-07-15,2026-08-05,2026-08-05,eggs,500,,Inoculated same day as transplant (simulated)
+SIM-RS-ANT-001,Radopholus similis,,Anthurium sp.,,GH-hot,,2026-06-01,2026-06-15,vermiform,200,,Example row (simulated)
