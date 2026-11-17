@@ -38,7 +38,7 @@ See [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md). In short, give each po
 
 ## Author
 
-Ben Wiseman, Department of Plant and Environmental Protection Sciences, University of Hawaiʻi at Mānoa.
+Benjamin Wiseman, Department of Plant and Environmental Protection Sciences, University of Hawaiʻi at Mānoa.
 
 ## License
 
